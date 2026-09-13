@@ -1,0 +1,8 @@
+Card Serial: SALES-03
+Card Title: Support Staff - Manage customer support tickets
+Assigned Member: MD. Charim Hossain (22-46769-1)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Developed customer support desk ticket inbox with response timers and quick reply actions.

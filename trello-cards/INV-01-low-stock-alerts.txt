@@ -1,0 +1,8 @@
+Card Serial: INV-01
+Card Title: Inventory - Set up low-stock alerts
+Assigned Member: Sampad Chakma (23-53146-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Configured low-stock alert thresholds for digital license vouchers (<15 units) with red alert highlighting.

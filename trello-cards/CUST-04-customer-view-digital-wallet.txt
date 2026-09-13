@@ -1,0 +1,8 @@
+Card Serial: CUST-04
+Card Title: Customer - View my digital wallet
+Assigned Member: Nafisa Lubna (23-54759-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Built secure customer locker displaying purchased voucher codes with masked bullet dots and reveal toggle.

@@ -1,0 +1,8 @@
+Card Serial: ADM-03
+Card Title: Admin - Employee profiles and roles
+Assigned Member: MST. Tanzim Hossain Suborna (23-54781-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Implemented staff role allocation table enforcing role-based permissions.

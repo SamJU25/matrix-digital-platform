@@ -1,0 +1,8 @@
+Card Serial: INV-03
+Card Title: Inventory - Add and categorize subscriptions/gift cards
+Assigned Member: Sampad Chakma (23-53146-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Designed modal form allowing inventory staff to add new digital products and assign categories.

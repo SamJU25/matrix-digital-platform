@@ -1,0 +1,8 @@
+Card Serial: ADM-02
+Card Title: Admin - System settings and payment gateways
+Assigned Member: MST. Tanzim Hossain Suborna (23-54781-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Built payment gateway configuration panel for MFS and Card gateway credentials.

@@ -1,0 +1,8 @@
+Card Serial: INV-04
+Card Title: Inventory - Manage supplier and vendor profiles
+Assigned Member: Sampad Chakma (23-53146-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Created supplier directory displaying authorized digital distributors and purchase orders.

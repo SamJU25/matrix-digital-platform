@@ -1,0 +1,8 @@
+Card Serial: CUST-03
+Card Title: Customer - Online checkout
+Assigned Member: Nafisa Lubna (23-54759-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Implemented checkout modal supporting domestic MFS payment channels (bKash, Nagad) and cards.

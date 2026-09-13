@@ -1,0 +1,8 @@
+Card Serial: ADM-01
+Card Title: Admin - Customer list
+Assigned Member: MST. Tanzim Hossain Suborna (23-54781-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Created customer registry table with account status toggles.

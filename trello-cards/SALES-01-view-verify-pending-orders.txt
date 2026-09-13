@@ -1,0 +1,8 @@
+Card Serial: SALES-01
+Card Title: Support Staff - View and verify pending digital orders
+Assigned Member: MD. Charim Hossain (22-46769-1)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Created order verification queue interface displaying transaction IDs and payment status.

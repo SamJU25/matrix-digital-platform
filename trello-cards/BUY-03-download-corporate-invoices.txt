@@ -1,0 +1,8 @@
+Card Serial: BUY-03
+Card Title: Buyer - Download formal corporate invoices
+Assigned Member: Muntasir Mujib (23-54747-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Created formal corporate tax invoice generator reflecting $0.00 settlement.

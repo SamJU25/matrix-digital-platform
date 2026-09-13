@@ -1,0 +1,8 @@
+Card Serial: ADM-04
+Card Title: Admin - Sales and financial analytics
+Assigned Member: MST. Tanzim Hossain Suborna (23-54781-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Designed high-level executive KPI overview showing gross transaction value.
