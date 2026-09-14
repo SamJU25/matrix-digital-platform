@@ -1,0 +1,8 @@
+Card Serial: CUST-01
+Card Title: Customer - Add items
+Assigned Member: Nafisa Lubna (23-54759-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Designed slide-over shopping cart showing live badge counters, item prices, and checkout link.

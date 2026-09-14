@@ -1,0 +1,8 @@
+Card Serial: BUY-02
+Card Title: Buyer - Register a verified business account
+Assigned Member: Muntasir Mujib (23-54747-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Built dedicated corporate client registration interface requiring business license and verification.

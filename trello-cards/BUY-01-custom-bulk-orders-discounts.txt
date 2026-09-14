@@ -1,0 +1,8 @@
+Card Serial: BUY-01
+Card Title: Buyer - Custom bulk orders with discounts
+Assigned Member: Muntasir Mujib (23-54747-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Implemented automated tiered volume discount calculation for corporate buyers (10% to 25%).

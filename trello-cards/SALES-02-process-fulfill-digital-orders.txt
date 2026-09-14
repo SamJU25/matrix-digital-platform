@@ -1,0 +1,8 @@
+Card Serial: SALES-02
+Card Title: Support Staff - Process and fulfill digital orders
+Assigned Member: MD. Charim Hossain (22-46769-1)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Implemented digital order fulfillment trigger that assigns unused serial keys to customer lockers.

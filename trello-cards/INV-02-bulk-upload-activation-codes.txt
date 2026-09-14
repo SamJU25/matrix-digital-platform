@@ -1,0 +1,8 @@
+Card Serial: INV-02
+Card Title: Inventory - Bulk upload digital gift card activation codes
+Assigned Member: Sampad Chakma (23-53146-3)
+List: Done
+Timeline: Jul 13 - Sep 14
+
+Description:
+Implemented batch CSV import interface for digital voucher keys.
